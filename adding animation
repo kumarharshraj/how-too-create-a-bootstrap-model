@@ -1,0 +1,5 @@
+<!-- Fading modal -->
+<div class="modal fade"></div>
+
+<!-- Modal without animation -->
+<div class="modal"></div>
